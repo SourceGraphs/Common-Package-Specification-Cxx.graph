@@ -1,5 +1,10 @@
 # Common-Package-Specification-Cxx.graph
-sch: https://www.google.com/search?q=c%2B%2B+common+package+specification https://cps-org.github.io/cps/schema.html
+sch: https://www.google.com/search?q=c%2B%2B+common+package+specification
+
+# Home:
+https://cps-org.github.io/cps/
+
+- https://cps-org.github.io/cps/schema.html
 
 # Presentation:
 - https://cppcon.org/2023-keynote-bret-brown-bill-hoffman/
