@@ -4,3 +4,5 @@ sch: https://www.google.com/search?q=c%2B%2B+common+package+specification https:
 # Presentation:
 - https://cppcon.org/2023-keynote-bret-brown-bill-hoffman/
 - [Libraries: A First Step Toward Standard C++ Dependency Management - Bret Brown & Bill Hoffman 2023](https://youtu.be/IwuBZpLUq8Q)
+
+https://youtu.be/s0q6s5XzIrA?t=3200
